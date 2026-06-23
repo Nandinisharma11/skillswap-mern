@@ -19,7 +19,7 @@ SkillSwap is a full-stack, production-ready MERN application designed to democra
 
 ## 🛠️ Tech Stack
 
-* **Frontend**: React (Vite), React Router, Context API, Vanilla CSS, Axios, Lucide React (Icons), Socket.io-client.
+* **Frontend**: React (Vite),Context API, CSS.
 * **Backend**: Node.js, Express.js, HTTP Server, Socket.io.
 * **Database**: MongoDB & Mongoose.
 * **Auth**: JSON Web Tokens (JWT) & BcryptJS.
